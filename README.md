@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @Wirius
 - 👀 I’m interested in mathematics and computer science.
 - 🌱 I’m currently reading the Iliad.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on a lot of things!
+
+<!---
 - 📫 How to reach me ...
+--!>
 
 <!---
 Wirius/Wirius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
